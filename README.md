@@ -1,2 +1,5 @@
+heioooo
+‚
+
 # pprof
 pprof for sem I is-105 v√•ren 2024 uia
