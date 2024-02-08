@@ -1,5 +1,5 @@
 heioooo
-â
+âJeg endrer setningerâ‰ˆ
 
 # pprof
 pprof for sem I is-105 vÃ¥ren 2024 uia
